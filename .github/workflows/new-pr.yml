@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       API_URL: "https://ctf.catch-the-frog.com"
+
     
     steps:
     - name: Checkout code
